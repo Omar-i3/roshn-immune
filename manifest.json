@@ -1,0 +1,38 @@
+{
+    "name": "ROSHN Immune System",
+    "short_name": "ROSHN Immune",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#02231F",
+    "theme_color": "#02231F",
+    "description": "AI-powered predictive quality assurance platform for ROSHN giga-developments across the Kingdom of Saudi Arabia.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "categories": ["business", "productivity"],
+    "lang": "en",
+    "dir": "auto",
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
